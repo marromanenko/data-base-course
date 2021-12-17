@@ -1,2 +1,2 @@
 # Створення додатку бази даних, орієнтованого на взаємодію з СУБД PostgreSQL
-![Screenshot](1.png)
+![Screenshot](LAB1/1.png)
